@@ -1,0 +1,26 @@
+_repo: English-Literature--Modern_11327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mair, G. H. (George Herbert)
+    alias: Mair, George Herbert
+    birthdate: 1887
+    deathdate: 1926
+    gutenberg_agent_id: '3940'
+    url: http://www.gutenberg.org/2009/agents/3940
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 27
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+- GITenberg
+title: 'English Literature: Modern'
+url: http://www.gutenberg.org/ebooks/11327
